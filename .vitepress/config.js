@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({<% if (srcDir) { %>
-  srcDir: <%= srcDir %>,
-  <% } %>
+export default defineConfig({
   title: "TimeNugget",
-  description: <%= description %><% if (defaultTheme) { %>,
+  description: "TimwNugget的文档~",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
