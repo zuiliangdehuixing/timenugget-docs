@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "首页", link: "/" },
-      { text: "文档", link: "/docs/" },
+      { text: "文档", link: "/docs/what-is-timenugget" },
       { text: "其他", link: "/others/" },
       {
         text: "官方Q群",
@@ -20,7 +20,9 @@ export default defineConfig({
       "/docs/": [
         {
           text: "简介",
-          items: [{ text: "介绍", link: "/docs/" }],
+          items: [
+            { text: "什么是 TimeNugget", link: "/docs/what-is-timenugget" },
+          ],
         },
         {
           text: "推荐",
