@@ -4,9 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "TimeNugget",
   description: "TimeNugget 文档",
-  head: [
-    ['link', { rel: 'icon', href: '/avatar.png' }]
-  ],
+  head: [["link", { rel: "icon", href: "/avatar.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
@@ -15,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "文档", link: "/docs/what-is-timenugget" },
-      { text: "求生宝典", link: "/survivalHandbook/" },
+      { text: "求生宝典", link: "/SurvivalManual/" },
       {
         text: "官方Q群",
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806",
@@ -48,24 +46,31 @@ export default defineConfig({
           ],
         },
       ],
-      "/survivalHandbook/": [
+      "/SurvivalManual/": [
         {
           text: "求生必备",
           items: [
             {
-              text: "济南大学", link: "/survivalHandbook/ujn/" ,
+              text: "济南大学", link: "/SurvivalManual/ujn/" ,
               items: [
-                { text: "免责声明", link: "/survivalHandbook/ujn/disclaimer" }, // 需有对应文件
-                { text: "序言", link: "/survivalHandbook/ujn/preface" }, // 需有对应文件
+                { text: "免责声明", link: "/SurvivalManual/ujn/disclaimer" }, // 需有对应文件
+                { text: "序言", link: "/SurvivalManual/ujn/preface" }, // 需有对应文件
               ],
             
             },
-            { text: "其他大学", link: "/survivalHandbook/others/" },
+            { text: "其他大学", link: "/SurvivalManual/others/" },
           ],
         },
       ],
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/TimeNugget" }],
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      },
+    },
   },
 });

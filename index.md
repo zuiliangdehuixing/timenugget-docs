@@ -12,8 +12,8 @@ hero:
       text: 帮助文档
       link: /docs/what-is-timenugget
     - theme: brand
-      text: 求生必备宝典
-      link: /survivalHandbook/
+      text: 求生宝典
+      link: /SurvivalManual/
     - theme: alt
       text: Github 仓库
       link: https://github.com/TimeNugget/timenugget-docs
