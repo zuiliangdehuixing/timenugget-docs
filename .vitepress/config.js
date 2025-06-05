@@ -57,5 +57,12 @@ export default defineConfig({
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/TimeNugget" }],
-  },
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      }
+    },
+  },  
 });
