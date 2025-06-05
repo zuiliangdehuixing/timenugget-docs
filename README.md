@@ -75,8 +75,9 @@ npm run docs:dev
    - 可以使用 Vue 组件
 
 3. **图片资源**
-   - 建议将图片放在 `images/` 目录下
-   - 使用相对路径引用：`![alt text](/images/example.png)`
+   - 建议将图片放在 `public/` 目录下
+   - 使用根绝对路径引用：`![alt text](/icon.png)`
+   - 放置在 `public` 中的资源将按原样复制到输出目录的根目录中
 
 ### 开发提示
 
