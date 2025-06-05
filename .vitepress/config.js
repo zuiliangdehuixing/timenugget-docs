@@ -4,6 +4,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "TimeNugget",
   description: "TimeNugget 文档",
+  head: [
+    ['link', { rel: 'icon', href: '/avatar.png' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
