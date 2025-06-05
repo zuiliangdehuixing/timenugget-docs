@@ -48,15 +48,15 @@ export default defineConfig({
       ],
       "/SurvivalManual/": [
         {
-          text: "求生必备",
+          text: "求生宝典",
           items: [
             {
-              text: "济南大学", link: "/SurvivalManual/ujn/" ,
+              text: "济南大学",
+              link: "/SurvivalManual/ujn/",
               items: [
-                { text: "免责声明", link: "/SurvivalManual/ujn/disclaimer" }, // 需有对应文件
-                { text: "序言", link: "/SurvivalManual/ujn/preface" }, // 需有对应文件
+                { text: "免责声明", link: "/SurvivalManual/ujn/disclaimer" },
+                { text: "序言", link: "/SurvivalManual/ujn/preface" },
               ],
-            
             },
             { text: "其他大学", link: "/SurvivalManual/others/" },
           ],
