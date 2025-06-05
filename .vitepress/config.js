@@ -4,9 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "TimeNugget",
   description: "TimeNugget 文档",
-  head: [
-    ['link', { rel: 'icon', href: '/avatar.png' }]
-  ],
+  head: [["link", { rel: "icon", href: "/avatar.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
@@ -15,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "文档", link: "/docs/what-is-timenugget" },
-      { text: "求生宝典", link: "/survivalHandbook/" },
+      { text: "求生宝典", link: "/SurvivalManual/" },
       {
         text: "官方Q群",
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806",
@@ -48,10 +46,10 @@ export default defineConfig({
           ],
         },
       ],
-      "/survivalHandbook/": [
+      "/SurvivalManual/": [
         {
           text: "求生宝典",
-          items: [{ text: "济南大学", link: "/survivalHandbook/" }],
+          items: [{ text: "济南大学", link: "/SurvivalManual/" }],
         },
       ],
     },
@@ -62,7 +60,7 @@ export default defineConfig({
       formatOptions: {
         dateStyle: "short",
         timeStyle: "short",
-      }
+      },
     },
-  },  
+  },
 });
