@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "文档", link: "/docs/what-is-timenugget" },
-      { text: "其他", link: "/others/" },
+      { text: "求生宝典", link: "/survivalHandbook/" },
       {
         text: "官方Q群",
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806",
@@ -45,10 +45,10 @@ export default defineConfig({
           ],
         },
       ],
-      "/others/": [
+      "/survivalHandbook/": [
         {
-          text: "其他",
-          items: [{ text: "介绍", link: "/others/" }],
+          text: "求生宝典",
+          items: [{ text: "济南大学", link: "/survivalHandbook/" }],
         },
       ],
     },

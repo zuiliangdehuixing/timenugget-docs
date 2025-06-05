@@ -5,15 +5,15 @@ hero:
   name: "TimeNugget"
   text: "大学生高效利用时间文档"
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: TimeNugget logo
   actions:
     - theme: brand
-      text: 阅读文档
+      text: 帮助文档
       link: /docs/what-is-timenugget
     - theme: brand
-      text: 其他资源
-      link: /others/
+      text: 求生必备宝典
+      link: /survivalHandbook/
     - theme: alt
       text: Github 仓库
       link: https://github.com/TimeNugget/timenugget-docs
