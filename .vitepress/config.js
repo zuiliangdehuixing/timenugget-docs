@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
-    logo: "/images/logo.png",
+    logo: "https://github.com/TimeNugget/timenugget-docs/blob/main/images/logo.png?raw=true",
 
     nav: [
       { text: "首页", link: "/" },
