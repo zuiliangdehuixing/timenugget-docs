@@ -3,9 +3,12 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "TimeNugget",
-  description: "TimwNugget的文档~",
+  description: "TimeNugget 文档",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    logo: "/images/logo.png",
+
     nav: [
       { text: "首页", link: "/" },
       { text: "文档", link: "/docs/what-is-timenugget" },
@@ -15,6 +18,10 @@ export default defineConfig({
         link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806",
       },
     ],
+
+    search: {
+      provider: "local",
+    },
 
     sidebar: {
       "/docs/": [
