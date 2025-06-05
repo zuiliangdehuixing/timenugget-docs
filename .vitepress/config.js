@@ -50,8 +50,18 @@ export default defineConfig({
       ],
       "/survivalHandbook/": [
         {
-          text: "求生宝典",
-          items: [{ text: "济南大学", link: "/survivalHandbook/" }],
+          text: "求生必备",
+          items: [
+            {
+              text: "济南大学", link: "/survivalHandbook/ujn/" ,
+              items: [
+                { text: "免责声明", link: "/survivalHandbook/ujn/disclaimer" }, // 需有对应文件
+                { text: "序言", link: "/survivalHandbook/ujn/preface" }, // 需有对应文件
+              ],
+            
+            },
+            { text: "其他大学", link: "/survivalHandbook/others/" },
+          ],
         },
       ],
     },
