@@ -2,7 +2,7 @@
 
 ## 一、版权与使用规范  
 
-《济南大学求生宝典》（以下简称**「宝典」** ）为公益性质知识集合，GitHub 仓库地址：`https://github.com/TimeNugget/timenugget-docs` ，**版权归属于TimeNugget项目组员**。  
+《济南大学求生宝典》（以下简称 **「宝典」** ）为公益性质知识集合，GitHub 仓库地址：[https://github.com/TimeNugget/timenugget-docs](https://github.com/TimeNugget/timenugget-docs)，**版权归属于TimeNugget项目组员**。  
 
 撰写全程坚守 **「多元」「中立」「公益」** 原则。  
 
@@ -19,6 +19,6 @@
 
 ## 三、交流与改进  
 
-TimeNugget项目组员欢迎所有建议与批评！若对内容存疑、想分享想法，可发邮件至：`timenugget@tupx.xyz`  或是进入官方群探讨。
+TimeNugget项目组员欢迎所有建议与批评！若对内容存疑、想分享想法，可发邮件至：[timenugget@tupx.xyz](mailto:timenugget@tupx.xyz) 或是进入官方群探讨。
 
-虽无法承诺逐一回复，但每一条反馈都会被认真对待——我们会在后续版本中优化调整，和济大学子一起完善这份「校园生存指南」。
+虽无法承诺逐一回复，但每一条反馈都会被认真对待——我们会在后续版本中优化调整，和济大学子一起完善这份 **「校园生存指南」**。

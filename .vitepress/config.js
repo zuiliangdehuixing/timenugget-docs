@@ -12,7 +12,7 @@ export default defineConfig({
 
     nav: [
       { text: "首页", link: "/" },
-      { text: "文档", link: "/docs/what-is-timenugget" },
+      { text: "文档", link: "/docs/" },
       { text: "求生宝典", link: "/SurvivalManual/" },
       {
         text: "官方Q群",
@@ -28,9 +28,7 @@ export default defineConfig({
       "/docs/": [
         {
           text: "简介",
-          items: [
-            { text: "什么是 TimeNugget", link: "/docs/what-is-timenugget" },
-          ],
+          items: [{ text: "TimeNugget", link: "/docs/" }],
         },
         {
           text: "推荐",
@@ -48,18 +46,19 @@ export default defineConfig({
       ],
       "/SurvivalManual/": [
         {
-          text: "求生宝典",
+          text: "简介",
+          items: [{ text: "求生宝典", link: "/SurvivalManual/" }],
+        },
+        {
+          text: "济南大学",
           items: [
-            {
-              text: "济南大学",
-              link: "/SurvivalManual/ujn/",
-              items: [
-                { text: "免责声明", link: "/SurvivalManual/ujn/disclaimer" },
-                { text: "序言", link: "/SurvivalManual/ujn/preface" },
-              ],
-            },
-            { text: "其他大学", link: "/SurvivalManual/others/" },
+            { text: "免责声明", link: "/SurvivalManual/ujn/disclaimer" },
+            { text: "序言", link: "/SurvivalManual/ujn/preface" },
           ],
+        },
+        {
+          text: "其他大学",
+          items: [{ text: "序言", link: "/SurvivalManual/others/" }],
         },
       ],
     },
