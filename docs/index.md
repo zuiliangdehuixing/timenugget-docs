@@ -47,3 +47,21 @@
 
 **TimeNugget，不做高校生活的“美颜相机”，只当你手中的“高清显微镜”。**
 在这里，看见真实的大学，走出更清醒的成长之路。
+
+## 参与方式
+
+1. 准备一份 Word 文档，包含以下内容：  
+   - 你的想法  
+   - 你的称呼（将展示于“致谢”中）  
+
+2. 通过以下任一方式提交：  
+   - 邮件发送至：  
+     - <timenugget@tupx.xyz>  
+     - <1727369245@qq.com>  
+     - <2717709970@qq.com>  
+   - QQ 群文件提交：  
+     - [加入群聊并提交群文档](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806)
+
+---
+
+感谢每一位贡献者的支持与参与！
