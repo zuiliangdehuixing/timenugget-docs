@@ -9,7 +9,7 @@ hero:
     alt: TimeNugget logo
   actions:
     - theme: brand
-      text: 帮助文档
+      text: 阅读文档
       link: /docs/
     - theme: brand
       text: 求生宝典

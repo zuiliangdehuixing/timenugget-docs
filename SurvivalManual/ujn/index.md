@@ -8,9 +8,12 @@ description: "一站式生存指南，助你在济南大学游刃有余"
   <a href="/SurvivalManual/" style="text-decoration:none; padding:6px 12px; background-color:#007ACC; color:white; border-radius:4px;">← 返回</a>
 </p>
 
+> **注意**：本项目目前处于信息收集与整合阶段，下方内容为草稿 **仅供参考**。  
+> 如果你想作为贡献者，请 **[点击这里](/docs/index.md)**，TimeNugget项目组期待你的参与！
+
 # 《济南大学求生宝典》
 
-> 在这里，你将找到所有关于在济南大学学习、生活的实用技巧
+在这里，你将找到所有关于在**济南大学**学习、生活的实用技巧
 
 ---
 
@@ -24,3 +27,4 @@ description: "一站式生存指南，助你在济南大学游刃有余"
 - ⚒️ [第四章 资源“掠夺”](/SurvivalManual/ujn/Fourth/)
 - ⚠️ [第五章 风险对冲](/SurvivalManual/ujn/Fifth/)
 - 🚀 [第六章 认知升维](/SurvivalManual/ujn/Sixth/)
+- 🙏 [致谢](/SurvivalManual/ujn/Thanks.md)

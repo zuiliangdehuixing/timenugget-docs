@@ -6,19 +6,19 @@
 
 ---
 
-## 参与方式
+## 📋 参与方式
 
-1. 准备一份 Word 文档，包含以下内容：  
-   - 你的想法  
-   - 你的称呼（将展示于“致谢”中）  
+1. 准备一份 **Word** 文档，包含：
+   - 💡 你的想法  
+   - 🏷️ 你的称呼（将展示于“致谢”中）
 
-2. 通过以下任一方式提交：  
-   - 邮件发送至：  
-     - <timenugget@tupx.xyz>  
-     - <1727369245@qq.com>  
-     - <dabblerli@qq.com>  
-   - QQ 群文件提交：  
-     - [加入群聊并提交群文档](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806)
+2. 提交方式 **（两种方式任意一种即可）**：
+   - ✉️ 邮件  
+     - [timenugget@tupx.xyz](mailto:timenugget@tupx.xyz)  
+     - [1727369245@qq.com](mailto:1727369245@qq.com)  
+     - [dabblerli@qq.com](mailto:dabblerli@qq.com)
+   - 📂 QQ 群文件  
+     [加入群聊并提交群文档](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806)
 
 ---
 
