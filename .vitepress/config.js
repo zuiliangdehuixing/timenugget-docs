@@ -165,6 +165,7 @@ export default defineConfig({
                 },
               ],
             },
+            { text: "致谢", link: "/SurvivalManual/ujn/Thanks" },
           ],
         },
       ],
