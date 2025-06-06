@@ -6,14 +6,9 @@
 
 ## 📚 已收录院校
 
-### 🏫 济南大学
+### 🏫 [济南大学](/SurvivalManual/ujn/)
 
-- [免责声明](/SurvivalManual/ujn/disclaimer)
-- [序言](/SurvivalManual/ujn/preface)
-
-### 🌟 其他大学
-
-- [更多院校](/SurvivalManual/others/)
+### 🌟 [其他大学](/SurvivalManual/others/)
 
 ## 🤝 贡献指南
 
