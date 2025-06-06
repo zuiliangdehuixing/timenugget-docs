@@ -66,6 +66,7 @@ export default defineConfig({
             {
               text: "第一章 认识“大学”",
               link: "/SurvivalManual/ujn/First/",
+              collapsed: true,
               items: [
                 {
                   text: "大学系统的本质",
@@ -81,6 +82,7 @@ export default defineConfig({
             {
               text: "第二章 反内卷",
               link: "/SurvivalManual/ujn/Second/",
+              collapsed: true,
               items: [
                 {
                   text: "选课的“断舍离”",
@@ -96,6 +98,7 @@ export default defineConfig({
             {
               text: "第三章 时间管理",
               link: "/SurvivalManual/ujn/Third/",
+              collapsed: true,
               items: [
                 {
                   text: "反常识时间分配",
@@ -114,6 +117,7 @@ export default defineConfig({
             {
               text: "第四章 资源“掠夺”",
               link: "/SurvivalManual/ujn/Fourth/",
+              collapsed: true,
               items: [
                 {
                   text: "人脉网络搭建",
@@ -132,6 +136,7 @@ export default defineConfig({
             {
               text: "第五章 风险对冲",
               link: "/SurvivalManual/ujn/Fifth/",
+              collapsed: true,
               items: [
                 {
                   text: "制度性风险预警",
@@ -150,6 +155,7 @@ export default defineConfig({
             {
               text: "第六章 认知升维",
               link: "/SurvivalManual/ujn/Sixth/",
+              collapsed: true,
               items: [
                 {
                   text: "大学的 “第三空间”",
@@ -169,6 +175,11 @@ export default defineConfig({
           ],
         },
       ],
+    },
+
+    editLink: {
+      pattern: "https://github.com/TimeNugget/timenugget-docs/edit/main/:path",
+      text: "在 GitHub 上编辑此页",
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/TimeNugget" }],
