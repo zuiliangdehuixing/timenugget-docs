@@ -144,3 +144,18 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Apple Safari: 文字渐变剪裁 & 滤镜前缀兼容 */
+.vp-home-hero-name {
+  /* 文字渐变裁剪 */
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.vp-home-hero-image {
+  /* 模糊滤镜兼容 */
+  -webkit-filter: var(--vp-home-hero-image-filter);
+  filter: var(--vp-home-hero-image-filter);
+}
