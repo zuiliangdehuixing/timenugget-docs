@@ -14,7 +14,7 @@ hero:
     - theme: brand
       text: 求生宝典
       link: /SurvivalManual/
-    - theme: alt
+    - theme: brand
       text: "官方Q群"
       link: "https://qm.qq.com/q/N80scRlJmi"
     - theme: alt
