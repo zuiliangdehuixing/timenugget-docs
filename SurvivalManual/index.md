@@ -9,10 +9,7 @@
 
 ## 📚 已收录院校
 
-<p align="center">
-  <a href="/SurvivalManual/ujn/" style="margin:0 20px; font-size:1.1em;">🏫 济南大学</a>
-  <a href="/SurvivalManual/others/" style="margin:0 20px; font-size:1.1em;">🌟 其他大学</a>
-</p>
+- [🏫 济南大学](/SurvivalManual/ujn/)
 
 ---
 
@@ -27,15 +24,8 @@
 
 ## 📞 联系我们
 
-<p align="center">
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806" style="margin:0 15px; text-decoration:none;">
-    🔗 官方 Q 群
-  </a>
-  <a href="https://github.com/TimeNugget/timenugget-docs" style="margin:0 15px; text-decoration:none;">
-    🔗 GitHub 仓库
-  </a>
-</p>
-
+- 🔗 [官方 Q 群](https://qm.qq.com/q/N80scRlJmi)
+- 🔗 [GitHub 仓库](https://github.com/TimeNugget/timenugget-docs)
 - 📧 <timenugget@tupx.xyz>  
 - 📧 <1727369245@qq.com>  
 - 📧 <dabblerli@qq.com>
