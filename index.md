@@ -15,6 +15,9 @@ hero:
       text: 求生宝典
       link: /SurvivalManual/
     - theme: alt
+      text: "官方Q群"
+      link: "https://qm.qq.com/q/N80scRlJmi"
+    - theme: alt
       text: Github 仓库
       link: https://github.com/TimeNugget/timenugget-docs
 
