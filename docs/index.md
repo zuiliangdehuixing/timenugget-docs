@@ -1,7 +1,4 @@
-<!-- 返回按钮 -->
-<p align="left">
-  <a href="/" style="text-decoration:none; padding:6px 12px; background-color:#007ACC; color:white; border-radius:4px;">← 返回</a>
-</p>
+**[← 返回](/)**
 
 # 🚀 TimeNugget —— 打破高校信息滤镜的生存宝典集成项目
 
@@ -21,7 +18,7 @@
      - [1727369245@qq.com](mailto:1727369245@qq.com)  
      - [dabblerli@qq.com](mailto:dabblerli@qq.com)
    - 📂 QQ 群文件  
-     [加入群聊并提交群文档](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806)
+     [加入群聊并提交群文档](https://qm.qq.com/q/N80scRlJmi)
 
 ---
 

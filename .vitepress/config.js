@@ -16,7 +16,7 @@ export default defineConfig({
       { text: "求生宝典", link: "/SurvivalManual/" },
       {
         text: "官方Q群",
-        link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tXOsaPqZw_uTCdyg2Oj4i9lrFYemnwo2&authKey=QMuIYrJ%2FC2hS7kkoDn0%2FuoxuFqXonuL5mZpGhXGbsgjxYIPrDDRJimVk0bYcMj5I&noverify=0&group_code=348025806",
+        link: "https://qm.qq.com/q/N80scRlJmi",
       },
     ],
 

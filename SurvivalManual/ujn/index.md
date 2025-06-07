@@ -3,10 +3,7 @@ title: "济南大学求生宝典"
 description: "一站式生存指南，助你在济南大学游刃有余"
 ---
 
-<!-- 返回按钮 -->
-<p align="left">
-  <a href="/SurvivalManual/" style="text-decoration:none; padding:6px 12px; background-color:#007ACC; color:white; border-radius:4px;">← 返回</a>
-</p>
+**[← 返回](/SurvivalManual/)**
 
 > **注意**：本项目目前处于信息收集与整合阶段，下方内容为草稿 **仅供参考**。  
 > 如果你想作为贡献者，请 **[点击这里](/docs/index.md)**，TimeNugget项目组期待你的参与！
