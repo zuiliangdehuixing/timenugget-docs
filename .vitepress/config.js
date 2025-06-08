@@ -1,10 +1,9 @@
 import { defineConfig } from "vitepress";
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "TimeNugget",
   description: "TimeNugget 文档",
-  head: [["link", { rel: "icon", href: "/avatar.png" }],['link', {rel: 'stylesheet', href: 'https://unpkg.com/@waline/client@v3/dist/waline.css'}],['script', {src: 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback', async: true, defer: true }]],
+  head: [["link", { rel: "icon", href: "/avatar.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 

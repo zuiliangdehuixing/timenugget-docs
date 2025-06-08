@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import Waline from './Waline.vue'
 
 export default {
   extends: DefaultTheme,
@@ -12,6 +13,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // 可以在此处注册全局组件或添加自定义功能
+    app.component('Waline', Waline)
   }
 }
