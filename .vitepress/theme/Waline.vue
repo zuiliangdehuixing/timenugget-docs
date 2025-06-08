@@ -7,9 +7,9 @@ onMounted(() => {
   init({
     el: '#waline',
     serverURL: 'https://tncomm.tupx.xyz',
-    turnstile: {
-      sitekey: '0x4AAAAAABgbCNmqcabywqKJ'
-    }
+    turnstileKey: '0x4AAAAAABgbCNmqcabywqKJ',
+    wordLimit: [5, 200],
+    dark: 'auto'
   })
 })
 </script>
