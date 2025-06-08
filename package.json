@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "vitepress": "^1.6.3",
-    "@waline/client/full": "^3.5.7"
+    "@waline/client": "^3.5.7"
   }
 }
