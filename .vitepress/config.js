@@ -39,7 +39,7 @@ export default defineConfig({
         {
           text: "高效使用AI",
           items: [
-            { text: "AI软件推荐", link: "/docs/ai-software" },
+            { text: "AI工具推荐", link: "/docs/ai-tools" },
             { text: "提示词工程", link: "/docs/prompt-engineering" },
           ],
         },
