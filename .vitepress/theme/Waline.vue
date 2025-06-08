@@ -6,10 +6,8 @@ onMounted(() => {
   init({
     el: '#waline',
     serverURL: 'https://tncomm.tupx.xyz',
-    // 启用 Turnstile
     turnstile: {
-      sitekey: '0x4AAAAAABgbCNmqcabywqKJ
-'
+      sitekey: '0x4AAAAAABgbCNmqcabywqKJ'
     }
   })
 })
