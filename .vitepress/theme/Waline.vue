@@ -10,7 +10,10 @@ onMounted(() => {
     turnstileKey: '0x4AAAAAABgbCNmqcabywqKJ',
     wordLimit: [5, 200],
     dark: 'auto',
-    login: 'disable'
+    login: 'disable',
+      locale: {
+    placeholder: '欢迎提交评论，所有评论将在审核后展示',
+  }
   })
 })
 </script>
