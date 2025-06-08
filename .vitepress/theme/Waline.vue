@@ -1,6 +1,7 @@
 <script setup>
 import { onMounted } from 'vue'
 import { init } from '@waline/client'
+import '@waline/client/style';
 
 onMounted(() => {
   init({
