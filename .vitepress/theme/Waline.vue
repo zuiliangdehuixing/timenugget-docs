@@ -9,7 +9,8 @@ onMounted(() => {
     serverURL: 'https://tncomm.tupx.xyz',
     turnstileKey: '0x4AAAAAABgbCNmqcabywqKJ',
     wordLimit: [5, 200],
-    dark: 'auto'
+    dark: 'auto',
+    login: 'disable'
   })
 })
 </script>
