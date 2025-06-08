@@ -1,3 +1,5 @@
+> 该页暂时由AI生成，请谨慎辨别
+
 # 💡 提示词工程（Prompt Engineering）
 
 **标签**：AI | 提示词工程 | 最佳实践
@@ -68,5 +70,3 @@ User: 请将以下需求转化为接口文档，要求包含接口名称、方�
 3. Zhao, W. et al. (2022). *RoBERTa: A Robustly Optimized BERT Pretraining Approach*.
 
 ---
-
-> 以上内容可根据项目需求增删或深度定制，持续迭代提示词以获得最优效果。

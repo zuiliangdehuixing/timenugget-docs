@@ -1,5 +1,3 @@
-**[← 返回](/SurvivalManual/ujn/index)**
-
 # 免责声明  
 
 ## 一、版权与使用规范  
