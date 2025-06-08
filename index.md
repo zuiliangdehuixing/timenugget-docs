@@ -31,5 +31,5 @@ features:
     - icon: 🌟
       title: 多元成长路径
       details: 打破传统成功模板，探索属于自己的大学成长轨迹和人生可能性
-<Waline />
 ---
+<Waline />
